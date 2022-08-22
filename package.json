@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-inspect-font",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Used to inspect the font of the storybook",
   "keywords": [
     "storybook-addons",
