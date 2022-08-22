@@ -4,7 +4,13 @@
   "description": "Used to inspect the font of the storybook",
   "keywords": [
     "storybook-addons",
-    "storybook-addons"
+    "storybook-addons",
+    "inspect-font",
+    "font",
+    "inspect",
+    "font family",
+    "css",
+    "live inspect"
   ],
   "repository": {
     "type": "git",
